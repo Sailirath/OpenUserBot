@@ -125,7 +125,7 @@ async def amireallyalive(on):
     await on.edit("`"
                      "Hallo \n"
                      " \n"
-                     "Bot is running \n"
+                     "Bot rennt \n"
                      f"Telethon-Version: {version.__version__} \n"
                      f"Python: {python_version()} \n"
 
